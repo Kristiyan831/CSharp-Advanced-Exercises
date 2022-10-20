@@ -1,0 +1,15 @@
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\BasicQueueOperation.csproj.AssemblyReference.cache
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\BasicQueueOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\BasicQueueOperation.AssemblyInfoInputs.cache
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\BasicQueueOperation.AssemblyInfo.cs
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\BasicQueueOperation.csproj.CoreCompileInputs.cache
+C:\Users\Kristiqn\source\repos\NEW\NEW\bin\Debug\net6.0\BasicQueueOperation.exe
+C:\Users\Kristiqn\source\repos\NEW\NEW\bin\Debug\net6.0\BasicQueueOperation.deps.json
+C:\Users\Kristiqn\source\repos\NEW\NEW\bin\Debug\net6.0\BasicQueueOperation.runtimeconfig.json
+C:\Users\Kristiqn\source\repos\NEW\NEW\bin\Debug\net6.0\BasicQueueOperation.dll
+C:\Users\Kristiqn\source\repos\NEW\NEW\bin\Debug\net6.0\BasicQueueOperation.pdb
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\BasicQueueOperation.dll
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\refint\BasicQueueOperation.dll
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\BasicQueueOperation.pdb
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\BasicQueueOperation.genruntimeconfig.cache
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\ref\BasicQueueOperation.dll
