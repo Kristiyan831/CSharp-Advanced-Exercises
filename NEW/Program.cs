@@ -1,48 +1,34 @@
 ﻿using System;
-    namespace NEW;
-public class BasicStackOperations
+    
+namespace BasicQueueOperation;
+
+public class StartUp
 {
     public static void Main() 
     {
-        int[] stats = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
-        int n = stats[0];
-        //number of elements to push into the stack
-        int s = stats[1];
-        // munber of elements to pop from the stack
-        int x = stats[2];
-        // element you should look for int stack
-        int[] inputInts = Console.ReadLine().Split(' ').Select(int.Parse).ToArray(); 
-        List<int> pushedInts = new List<int>(n);
-        
+        int queries = int.Parse(Console.ReadLine());
         Stack<int> stack = new Stack<int>();
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i < queries; i++)
         {
-            pushedInts.Add(inputInts[i]);
-            stack.Push(pushedInts[i]);
+            int[] querie = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            if (querie[0] == 1)
+            {
+                stack.Push(querie[1]);
+            }
+            else if (querie[0] == 2)
+            {
+                stack.Pop();
+            }
+            else if (querie[0] == 3)
+            {
+                Console.WriteLine(stack.AsQueryable().Max());
+            }
+            else if (querie[0] == 4)
+            {
+                Console.WriteLine(stack.AsQueryable().Min());
+            }
         }
-
-        for (int j = 0; j < s; j++)
-        {
-            stack.Pop();
-        }
-
-        if (stack.Contains(x))
-        {
-            Console.WriteLine("true");
-        }
-        else if (stack.Count==0)
-        {
-            Console.WriteLine("0");
-        }
-        else
-        {
-               int min=  pushedInts.AsQueryable().Min();
-            Console.WriteLine(min);
-        }
-       
-    
-
-               
+        Console.WriteLine(string.Join(", ",stack));
 
 
     }

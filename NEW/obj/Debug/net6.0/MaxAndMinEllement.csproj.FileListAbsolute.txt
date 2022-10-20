@@ -1,0 +1,15 @@
+C:\Users\Kristiqn\source\repos\NEW\NEW\bin\Debug\net6.0\MaxAndMinEllement.exe
+C:\Users\Kristiqn\source\repos\NEW\NEW\bin\Debug\net6.0\MaxAndMinEllement.deps.json
+C:\Users\Kristiqn\source\repos\NEW\NEW\bin\Debug\net6.0\MaxAndMinEllement.runtimeconfig.json
+C:\Users\Kristiqn\source\repos\NEW\NEW\bin\Debug\net6.0\MaxAndMinEllement.dll
+C:\Users\Kristiqn\source\repos\NEW\NEW\bin\Debug\net6.0\MaxAndMinEllement.pdb
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\MaxAndMinEllement.csproj.AssemblyReference.cache
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\MaxAndMinEllement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\MaxAndMinEllement.AssemblyInfoInputs.cache
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\MaxAndMinEllement.AssemblyInfo.cs
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\MaxAndMinEllement.csproj.CoreCompileInputs.cache
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\MaxAndMinEllement.dll
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\refint\MaxAndMinEllement.dll
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\MaxAndMinEllement.pdb
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\MaxAndMinEllement.genruntimeconfig.cache
+C:\Users\Kristiqn\source\repos\NEW\NEW\obj\Debug\net6.0\ref\MaxAndMinEllement.dll
